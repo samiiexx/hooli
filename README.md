@@ -5,7 +5,6 @@ Bootstrap test project for Hooli.
 
 ## Built With
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-- [SASS](https://sass-lang.com/)
 - [Bootstrap](https://getbootstrap.com/)
 
 ## Requirements
