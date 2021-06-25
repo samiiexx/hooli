@@ -1,5 +1,5 @@
 # Hooli Website
-Bootstrap test project for Hooli.
+Bootstrap test project for a dashboard.
 
 ![Hooli](screenshot.jpg)
 
