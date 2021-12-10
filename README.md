@@ -12,7 +12,7 @@ Bootstrap test project for a dashboard.
 
 ## Install
 ```
-    $ git clone git@github.com:starboxtech/sam-hooli.git main
+    $ git clone git@github.com:starboxtech/hooli.git main
     $ cd main
 ```
 
